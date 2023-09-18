@@ -14,8 +14,8 @@ I am currently a M.Sc. student in the Electrical and Electronics Department at B
 
 Research Interests
 ======
-• Machine Learning (Tree-Based Models, Gradient Boosting, Ensemble Models)
-• Deep Learning (Neural Networks, Sequence Models, Transformers, Generative Networks)
-• Time Series Analysis and Forecasting (Nonstationarity and Normalization Problems, Auto-Regressive Models)
-• Optimization (State-Space Models)
-• Signal Processing (Kalman Filter, Particle Filter)
+* Machine Learning (Tree-Based Models, Gradient Boosting, Ensemble Models)
+* Deep Learning (Neural Networks, Sequence Models, Transformers, Generative Networks)
+* Time Series Analysis and Forecasting (Nonstationarity and Normalization Problems, Auto-Regressive Models)
+* Optimization (State-Space Models)
+* Signal Processing (Kalman Filter, Particle Filter)
