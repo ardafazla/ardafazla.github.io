@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* **Master Of Science** - Electrical and Electronics Engineering **(3.91/4.00)**, 2021-2024
-Bilkent University - Faculty of Engineering - Ankara, Turkey.
+* **Master Of Science** - Electrical and Electronics Engineering **(3.91/4.00)**, 2021-2024 \\
+Bilkent University - Faculty of Engineering - Ankara, Turkey. \\
 **Thesis**: Novel Ensembling Approaches in Time Series Forecasting \\
 **Advisor**: [Prof. Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/)
 
-* **Bachelor of Science** - Electrical and Electronics Engineering **(3.61/4.00, Ranking: 24/350)**, 2017-2021
+* **Bachelor of Science** - Electrical and Electronics Engineering **(3.61/4.00, Ranking: 24/350)**, 2017-2021 \\
 Middle East Technical University - Faculty of Engineering - Ankara, Turkey.
 
 Publications
