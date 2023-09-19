@@ -11,7 +11,7 @@ redirect_from:
 
 CV
 ======
-[PDF Version](http://academicpages.github.io/files/arda_fazla_cv.pdf)
+[PDF Version](http://ardafazla.github.io/files/arda_fazla_cv.pdf)
 
 Education
 ======

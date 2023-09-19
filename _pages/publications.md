@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# {% if author.googlescholar %}
-#   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-# {% endif %}
-# 
-# {% include base_path %}
-# 
-# {% for post in site.publications reversed %}
-#   {% include archive-single.html %}
-# {% endfor %}
-
 Journal Papers
 ======
 **A. Fazla**, M. E. Aydin, S. S. Kozat, _"Time-Aware and Context-Sensitive Ensemble Learning for Sequential Data"_, IEEE Transactions on Artificial Intelligence, 2023, **In Second-Stage Revision**.  
