@@ -92,7 +92,7 @@ Software Skills
 * **Pyhton**: Professional research and industrial experience based on machine learning. High knowledge and experience on libraries such as _PyTorch_, _Tensorflow_, _Pandas_, _Numpy_ and _Scikit-Learn_. I have experience with Docker and Git, via industrial projects.  
 * **MATLAB**: Professional research experience in signal processing and computer vision. Used for projects during my undergraduate courses, undergraduate research, and internships.  
 * **R**: Intermediate level experience, employed during research based on time-series forecasting using statistical models.  
-* ***C/C++**: Intermediate experience in Arduino and various undergraduate projects.  
+* **C/C++**: Intermediate experience in Arduino and various undergraduate projects.  
 
 Languages
 ======
