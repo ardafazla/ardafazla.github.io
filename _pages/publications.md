@@ -7,11 +7,10 @@ author_profile: true
 
 ### Journal Papers
 4. **A. Fazla**, M. E. Aydin, S. S. Kozat, _"Time-Aware and Context-Sensitive Ensemble Learning for Sequential Data"_, IEEE Transactions on Artificial Intelligence, 2023, **Accepted**.  
-   Available: [https://arxiv.org/abs/2211.16884](https://arxiv.org/abs/2211.16884)  
+   Available: [https://doi.org/10.1109/TAI.2023.3319308](https://doi.org/10.1109/TAI.2023.3319308)  
    Code: [https://github.com/ardafazla/context-time-aware-ensemble](https://github.com/ardafazla/context-time-aware-ensemble)  
 
-3. S. F. Tekin, **A. Fazla**, S. S. Kozat, _"Numerical Weather Forecasting using Convolutional-LSTM with Attention and Context Matcher Mechanisms"_, IEEE Transactions on Geoscience and Remote Sensing, 2023, **In Second-Stage Revision**.  
-   Available:  
+3. S. F. Tekin, **A. Fazla**, S. S. Kozat, _"Numerical Weather Forecasting using Convolutional-LSTM with Attention and Context Matcher Mechanisms"_, IEEE Transactions on Geoscience and Remote Sensing, 2023, **In Second-Stage Revision**.
    Code: [https://github.com/sftekin/ieee\_weather](https://github.com/sftekin/ieee\_weather)  
 
 2. M. E. Aydin, **A. Fazla**, S. S. Kozat, _"Hybrid State Space-based Learning for Sequential Data Prediction with Joint Optimization"_, IEEE Transactions on Neural Networks and Learning Systems, 2023, **In Revision**.  
