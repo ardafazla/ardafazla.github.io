@@ -22,8 +22,8 @@ My research mainly focuses on **time series forecasting, machine learning
 and optimization**. I specifically focus on time-series modeling and prediction under adversarial and nonstationary
 environments. As real-life time series often contain irregular patterns interchanging with time, I have had success
 with building context-aware models through combining multiple deep-learning, tree-based and statistical models.
-Throughout my research, I have introduced novel ensemble models by utilizing different techniques, such as the 
-joint optimization of state-space models, solving a weight optimization problem that minimizes a specific loss function, 
+Throughout my research, I have introduced novel ensemble models by utilizing different techniques, such as 
+joint optimizing state-space models, solving a weight optimization problem that minimizes a specific loss function, 
 and jointly training multiple models by integrating correlation through back-propagation. **All of these works have been
 recognized by highly respected journals (IEEE Transactions and Elsevier).**
 
