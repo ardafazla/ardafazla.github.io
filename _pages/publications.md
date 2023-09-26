@@ -19,13 +19,13 @@ author_profile: true
 
 1. **A. Fazla**, M. E. Aydin, S. S. Kozat, _"Joint Optimization of Linear and Nonlinear Models for Sequential Regression"_, Digital Signal Processing, Elsevier, 2022, **Accepted**.  
    Available: [https://doi.org/10.1016/j.dsp.2022.103802](https://doi.org/10.1016/j.dsp.2022.103802)  
-   Code: [https://github.com/ardafazla/jointoptimization](https://github.com/ardafazla/jointoptimization)  {: reversed="reversed"}
+   Code: [https://github.com/ardafazla/jointoptimization](https://github.com/ardafazla/jointoptimization)
 
 ### Conference Papers
 1. K. G. Ince, A. Koksal, **A. Fazla**, A. A. Alatan, _"Semi-Automatic Annotation for Object Detection"_, Proceedings of the IEEE/CVF International Conference on Computer Vision, 1233-1239, 2021, **Accepted**.  
-   Available: [https://doi.org/10.1109/ICCVW54120.2021.00143](https://doi.org/10.1109/ICCVW54120.2021.00143)  {: reversed="reversed"}
+   Available: [https://doi.org/10.1109/ICCVW54120.2021.00143](https://doi.org/10.1109/ICCVW54120.2021.00143)
 
 ### In Progress
 2. **A. Fazla**, S. S. Kozat, _"Online Causal Inference for Modeling User Preferences: A State-Space Approach"_, 2023.  
 
-1. **A. Fazla**, S. S. Kozat, _"Context-Aware ARIMA-Tree with Switching Regions for Nonstationary Environments"_, 2023.  {: reversed="reversed"}
+1. **A. Fazla**, S. S. Kozat, _"Context-Aware ARIMA-Tree with Switching Regions for Nonstationary Environments"_, 2023.
