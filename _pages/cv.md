@@ -32,7 +32,7 @@ Publications
    Code: [https://github.com/ardafazla/context-time-aware-ensemble](https://github.com/ardafazla/context-time-aware-ensemble)  
 
 3. S. F. Tekin, **A. Fazla**, S. S. Kozat, _"Numerical Weather Forecasting using Convolutional-LSTM with Attention and Context Matcher Mechanisms"_, IEEE Transactions on Geoscience and Remote Sensing, 2023, **In Second-Stage Revision**.  
-   Code: [https://github.com/sftekin/ieee\_weather](https://github.com/sftekin/ieee\_weather)  
+   Code: [https://github.com/sftekin/spatio-temporal-weather-forecasting](https://github.com/sftekin/spatio-temporal-weather-forecasting)  
 
 2. M. E. Aydin, **A. Fazla**, S. S. Kozat, _"Hybrid State Space-based Learning for Sequential Data Prediction with Joint Optimization"_, IEEE Transactions on Neural Networks and Learning Systems, 2023, **In Revision**.  
    Available: [https://arxiv.org/abs/2309.10553](https://arxiv.org/abs/2309.10553)  
@@ -47,8 +47,9 @@ Publications
    Available: [https://doi.org/10.1109/ICCVW54120.2021.00143](https://doi.org/10.1109/ICCVW54120.2021.00143)  
 
 ### In Progress
-1. **A. Fazla**, S. S. Kozat, _"Online Causal Inference for Modeling User Preferences: A State Space Approach"_, 2023.  
+2. **A. Fazla**, S. S. Kozat, _"Online Causal Inference for Modeling User Preferences: A State-Space Approach"_, 2023.  
 
+1. **A. Fazla**, S. S. Kozat, _"Context-Aware ARIMA-Tree with Switching Regions for Nonstationary Environments"_, 2023.  
   
 Academic Duties
 ======
@@ -67,6 +68,23 @@ Relevant Coursework
 * Introduction to Computer Intelligence (4.0/4.0)  
 * Data Structures (4.0/4.0)  
 * Digital Signal Processing (4.0/4.0)  
+
+Research Projects
+======
+### Hourly Wind Energy Prediction  
+_Bilkent University, 2023_  
+* Predicted the hourly energy data of multiple wind turbines in Turkey and Europe, which show chaotic and nonstationary behaviour in multiple regions.  
+* Developed a large-scale ML framework, consisting of various deep-learning (NN, ConvLSTM), machine learning (LightGBM, RandomForest), statistical (SARIMAX) models and state-of-the-art ensembling techniques.  
+
+### Natural Gas Demand Prediction  
+_Bilkent University, 2022_  
+* Predicted the daily data of international natural gas demand in Turkey, which contains nonstationary multivariate time series from multiple sources.  
+* Developed a large-scale ML framework, consisting of various machine learning (LightGBM, MLP, LSTM) and statistical (exponential smoothing, SARIMAX) models and state-of-the-art ensembling techniques.  
+
+### Small-Target Detection \& Tracking  
+_Middle East Technical University, 2021_  
+* Developed an application using Python for real-time small target tracking by leveraging temporal data derived from the output of object detectors.  
+
 
 Additional Projects
 ======
@@ -100,10 +118,4 @@ Software Skills
 Languages
 ======
 _Turkish_: Native  
-_English_: Conversationally Fluent \[TOEFL IBT 108/120 (Available Through: October 19, 2024)\]  
-
-Extracurricular Activities
-======
-### METU Ultimate Frisbee  
-_Team Captain, May 2019 - March 2020_  
-* Took an active role in the METU Ultimate Frisbee team as a team captain  where I improved my teamwork and leadership skills.  
+_English_: Conversationally Fluent \[TOEFL IBT 108/120 (Available Through: October 19, 2024)\]
