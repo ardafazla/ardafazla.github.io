@@ -26,6 +26,8 @@ author_profile: true
    Available: [https://doi.org/10.1109/ICCVW54120.2021.00143](https://doi.org/10.1109/ICCVW54120.2021.00143)
 
 ### In Progress
-2. **A. Fazla**, S. S. Kozat, _"Online Causal Inference for Modeling User Preferences: A State-Space Approach"_, 2023.  
+2. **A. Fazla**, S. S. Kozat, _"Online Causal Inference for Modeling User Preferences: A State-Space Approach"_, to be submitted to
+IEEE Transactions on Neural Networks and Learning Systems, 2023.  
 
-1. **A. Fazla**, S. S. Kozat, _"Context-Aware ARIMA-Tree with Switching Regions for Nonstationary Environments"_, 2023.
+1. **A. Fazla**, S. S. Kozat, _"Context-Aware ARIMA-Tree with Switching Regions for Nonstationary Environments"_, to be submitted to
+IEEE Transactions on Signal Processing, 2023.  

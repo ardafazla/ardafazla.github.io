@@ -20,7 +20,7 @@ Bilkent University - Faculty of Engineering - Ankara, Turkey.
 **Thesis**: Novel Ensembling Approaches in Time Series Forecasting  
 **Advisor**: [Prof. Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/)  
 
-* **Bachelor of Science** - Electrical and Electronics Engineering **(3.61/4.00, Ranking: 24/350)**, 2017-2021  
+* **Bachelor of Science** - Electrical and Electronics Engineering **(3.61/4.00)**, 2017-2021  
 Middle East Technical University - Faculty of Engineering - Ankara, Turkey.
 
 Publications
@@ -47,9 +47,11 @@ Publications
    Available: [https://doi.org/10.1109/ICCVW54120.2021.00143](https://doi.org/10.1109/ICCVW54120.2021.00143)
 
 ### In Progress
-2. **A. Fazla**, S. S. Kozat, _"Online Causal Inference for Modeling User Preferences: A State-Space Approach"_, 2023.  
+2. **A. Fazla**, S. S. Kozat, _"Online Causal Inference for Modeling User Preferences: A State-Space Approach"_, to be submitted to
+IEEE Transactions on Neural Networks and Learning Systems, 2023.  
 
-1. **A. Fazla**, S. S. Kozat, _"Context-Aware ARIMA-Tree with Switching Regions for Nonstationary Environments"_, 2023.
+1. **A. Fazla**, S. S. Kozat, _"Context-Aware ARIMA-Tree with Switching Regions for Nonstationary Environments"_, to be submitted to
+IEEE Transactions on Signal Processing, 2023.  
   
 Academic Duties
 ======
