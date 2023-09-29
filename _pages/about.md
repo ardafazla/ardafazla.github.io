@@ -18,7 +18,7 @@ Electronics Engineering at Middle East Technical University, Turkey, in July 202
 Throughout my graduate research, **I have first-authored 4 journal papers (2 accepted, 2 submitted/in progress) in highly respected 
 IEEE Transactions and Elsevier. I have also co-authored 2 journal papers and 1 conference paper, all in IEEE.**
 
-My research mainly focuses on **time series forecasting, machine learning, and optimization**. 
+My research mainly focuses on **time series forecasting, machine learning, deep learning and optimization**. 
 Specifically, I am interested in modeling and prediction of time series under adversarial and nonstationary environments. 
 As real-life time series often contain irregular patterns interchanging with time, I have had success
 with building context-aware models by combining multiple deep learning, tree-based and statistical models.
