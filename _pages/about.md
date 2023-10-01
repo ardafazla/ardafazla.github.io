@@ -18,19 +18,19 @@ Electronics Engineering at Middle East Technical University, Turkey, in July 202
 Throughout my graduate research, **I have first-authored 4 journal papers (2 accepted, 2 submitted/in progress) in highly respected 
 IEEE Transactions and Elsevier. I have also co-authored 2 journal papers and 1 conference paper, all in IEEE.**
 
-My research mainly focuses on **time series forecasting, machine learning, deep learning and optimization**. 
-Specifically, I am interested in modeling and prediction of time series under adversarial and nonstationary environments. 
-As real-life time series often contain irregular patterns interchanging with time, I have had success
-with building context-aware models by combining multiple deep learning, tree-based and statistical models.
-Throughout my research, I have introduced novel ensemble models by utilizing different techniques, such as 
-jointly optimizing state-space models, solving a weight optimization problem that minimizes a specific loss function, 
-and jointly training multiple models by integrating correlation through back-propagation. **All of these works have been
-recognized by highly respected journals (IEEE Transactions and Elsevier).**
+My research primarily centers on **machine learning, deep learning, optimization and online learning**. Specifically, I am
+interested in modeling and prediction of time series under adversarial and nonstationary environments. Recognizing that
+real-world time series data frequently exhibit complex patterns interchanging with time, I have developed context-aware
+ensemble models by combining deep learning techniques with tree-based and statistical models. I have
+mainly focused on joint optimization techniques, including combination of state-space models, constrained multi-objective optimization
+through minimizing specific loss-functions, and joint training of multiple models by harnessing the power of correlation
+via back-propagation. **My contributions have been acknowledged and published in highly respected journals, such as
+IEEE Transactions and Elsevier.**
 
 Research Interests
 ======
-* Machine Learning (Tree-Based Models, Gradient Boosting, Ensemble Models)
+* Machine Learning (Tree-Based Models, Ensemble Models)
 * Deep Learning (Neural Networks, Sequence Models, Transformers, Generative Networks)
-* Time Series Analysis and Forecasting (Nonstationarity and Normalization Problems, Auto-Regressive Models)
-* Optimization (State-Space Models)
-* Signal Processing (Kalman Filter, Particle Filter)
+* Optimization (Constrained/Unconstrained Optimization, Multi-Objective Optimization, Gradient Descent Variants)
+* Online Learning (Fine-tuning, Transfer Learning, Online Convex Optimization)
+* Time Series Analysis and Forecasting (Univariate & Multivariate Forecasting, State Space Models, Anomaly Detection)
