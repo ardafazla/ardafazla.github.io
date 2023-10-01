@@ -20,7 +20,7 @@ IEEE Transactions and Elsevier. I have also co-authored 2 journal papers and 1 c
 
 My research primarily centers on **machine learning, deep learning, optimization and online learning**. Specifically, I am
 interested in modeling and prediction of time series under adversarial and nonstationary environments. Recognizing that
-real-world time series data frequently exhibit complex patterns interchanging with time, I have developed context-aware
+real-world time series frequently exhibit complex patterns interchanging with time, I have developed context-aware
 ensemble models by combining deep learning techniques with tree-based and statistical models. I have
 mainly focused on joint optimization techniques, including combination of state-space models, constrained multi-objective optimization
 through minimizing specific loss-functions, and joint training of multiple models by harnessing the power of correlation
