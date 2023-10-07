@@ -19,7 +19,7 @@ Throughout my graduate research, **I have first-authored 4 journal papers (2 acc
 IEEE Transactions and Elsevier. I have also co-authored 2 journal papers and 1 conference paper, all in IEEE.**
 
 My research primarily centers on **machine learning, deep learning, optimization and online learning**. Specifically, I am
-interested in modeling and prediction of time series under adversarial and nonstationary environments. Recognizing that
+interested in modeling and prediction of time series under nonstationary environments. Recognizing that
 real-world time series frequently exhibit complex patterns interchanging with time, I have developed context-aware
 ensemble models by combining deep learning techniques with tree-based and statistical models. I have
 mainly focused on joint optimization techniques, including combination of state-space models, constrained multi-objective optimization
