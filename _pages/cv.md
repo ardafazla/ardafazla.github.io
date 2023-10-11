@@ -56,6 +56,11 @@ IEEE Transactions on Signal Processing, 2023.
   
 Academic Awards
 ======
+
+* Received the **373rd** rank among 2M high school graduates in University Entrance Examination.  
+
+* Received the **11th** rank among 0.2M high school graduates in ALES (National GRE).  
+
 ### Turk Telekom & Information and Communication Technologies Authority  
 _2023-2024_  
 * Awarded 5G and Beyond Joint Graduate Support Programme, a merit-based fellowship of monthly
@@ -64,12 +69,7 @@ stipend during M.Sc.
 ### Scientific and Technological Research Council of Turkey  
 _2021-2023_  
 * Awarded Directorate of Science Fellowships and Grant Programme, a merit-based monthly stipend and
-accommodation support during M.Sc.  
-
-* Received the **373rd** rank among 2M high school graduates in University Entrance Examination.  
-
-* Received the **11th** rank among 0.2M high school graduates in ALES (National GRE).
-
+accommodation support during M.Sc.
 
 Academic Duties
 ======
