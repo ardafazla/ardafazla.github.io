@@ -54,6 +54,23 @@ IEEE Transactions on Neural Networks and Learning Systems, 2023.
 1. **A. Fazla**, S. S. Kozat, _"Context-Aware ARIMA-Tree with Switching Regions for Nonstationary Environments"_, to be submitted to
 IEEE Transactions on Signal Processing, 2023.  
   
+Academic Awards
+======
+### Turk Telekom & Information and Communication Technologies Authority  
+_2023-2024_  
+* Awarded 5G and Beyond Joint Graduate Support Programme, a merit-based fellowship of monthly
+stipend during M.Sc.  
+
+### Scientific and Technological Research Council of Turkey  
+_2021-2023_  
+* Awarded Directorate of Science Fellowships and Grant Programme, a merit-based monthly stipend and
+accommodation support during M.Sc.  
+
+* Received the **373rd** rank among 2M high school graduates in University Entrance Examination.  
+
+* Received the **11th** rank among 0.2M high school graduates in ALES (National GRE).
+
+
 Academic Duties
 ======
 ### Tutoring and Grading (2021 - Present)
