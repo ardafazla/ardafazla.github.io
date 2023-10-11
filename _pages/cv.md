@@ -59,7 +59,7 @@ Academic Awards
 
 * Received the **373rd** rank among 2M high school graduates in University Entrance Examination.  
 
-* Received the **11th** rank among 0.2M high school graduates in ALES (National GRE).  
+* Received the **11th** rank among 0.2M university graduates in ALES (National GRE).  
 
 ### Turk Telekom & Information and Communication Technologies Authority  
 _2023-2024_  
