@@ -34,3 +34,4 @@ Research Interests
 * Optimization (Constrained/Unconstrained Optimization, Multi-Objective Optimization, Gradient Descent Variants)
 * Online Learning (Fine-tuning, Transfer Learning, Online Convex Optimization)
 * Time Series Analysis and Forecasting (Univariate & Multivariate Forecasting, State Space Models, Anomaly Detection)
+* Distributed/Federated Learning
