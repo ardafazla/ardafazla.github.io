@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am currently an M.S. student with a CGPA of **3.91/4.00** at the Department of Electrical and Electronics Engineering, 
+I am currently an M.Sc. student with a CGPA of **3.91/4.00** at the Department of Electrical and Electronics Engineering, 
 Bilkent University, under the supervision of [Prof. Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/). I have received 
 my B.S. degree with **high honors** and graduated with a CGPA of **3.61/4.00** from the Department of Electrical and 
 Electronics Engineering at Middle East Technical University, Turkey, in July 2021. 
