@@ -27,7 +27,7 @@ through minimizing specific loss-functions, and joint training of multiple model
 via back-propagation. **My contributions have been acknowledged and published in highly respected journals, such as
 IEEE Transactions and Elsevier.**
 
-Research Interests
+Research Background & Interests
 ======
 * Machine Learning (Tree-Based Models, Ensemble Models)
 * Deep Learning (Neural Networks, Sequence Models, Transformers, Generative Networks)
