@@ -29,9 +29,9 @@ IEEE Transactions and Elsevier.**
 
 Research Background & Interests
 ======
-* Machine Learning (Tree-Based Models, Ensemble Models)
 * Deep Learning (Neural Networks, Sequence Models, Transformers, Generative Networks)
-* Optimization (Constrained/Unconstrained Optimization, Multi-Objective Optimization, Gradient Descent Variants)
-* Online Learning (Fine-tuning, Transfer Learning, Online Convex Optimization)
-* Time Series Analysis and Forecasting (Univariate & Multivariate Forecasting, State Space Models, Anomaly Detection)
+* Optimization (Constrained/Unconstrained Optimization Theory, Multi-Objective Optimization)
 * Distributed/Federated Learning
+* Trustworthy Machine Learning (Robustness, Privacy, Memorization)
+* Online Learning (Transfer Learning, Online Convex Optimization)
+* Time Series Analysis and Forecasting (Univariate \& Multivariate Forecasting, State Space Models, Anomaly Detection)

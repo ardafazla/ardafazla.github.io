@@ -15,9 +15,12 @@ CV
 
 Education
 ======
+* **Doctor of Philosophy** - Electrical and Computer Engineering **(4.00/4.00)**, 2024-2029
+Purdue University - The Elmore Family School of Electrical and Computer Engineering - Indiana, US.
+**Advisor**: [Prof. Abolfazl Hashemi](https://abolfazlh.github.io)  
+
 * **Master Of Science** - Electrical and Electronics Engineering **(3.91/4.00)**, 2021-2024  
-Bilkent University - Faculty of Engineering - Ankara, Turkey.  
-**Thesis**: Novel Ensembling Approaches in Time Series Forecasting  
+Bilkent University - Faculty of Engineering - Ankara, Turkey.
 **Advisor**: [Prof. Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/)  
 
 * **Bachelor of Science** - Electrical and Electronics Engineering **(3.61/4.00)**, 2017-2021  
@@ -27,36 +30,32 @@ Publications
 ======
 
 ### Journal Papers
-4. S. F. Tekin, **A. Fazla**, S. S. Kozat, _"Numerical Weather Forecasting using Convolutional-LSTM with Attention and Context Matcher Mechanisms"_, IEEE Transactions on Geoscience and Remote Sensing, 2024, **Accepted**.  
+1. S. F. Tekin, **A. Fazla**, S. S. Kozat, _"Numerical Weather Forecasting using Convolutional-LSTM with Attention and Context Matcher Mechanisms"_, IEEE Transactions on Geoscience and Remote Sensing, 2024.  
    Available: [https://arxiv.org/abs/2102.00696](https://arxiv.org/abs/2102.00696)  
    Code: [https://github.com/sftekin/spatio-temporal-weather-forecasting](https://github.com/sftekin/spatio-temporal-weather-forecasting)
 
-5. **A. Fazla**, M. E. Aydin, S. S. Kozat, _"Time-Aware and Context-Sensitive Ensemble Learning for Sequential Data"_, IEEE Transactions on Artificial Intelligence, 2023, **Accepted**.  
+2. **A. Fazla**, M. E. Aydin, S. S. Kozat, _"Time-Aware and Context-Sensitive Ensemble Learning for Sequential Data"_, IEEE Transactions on Artificial Intelligence, 2023.  
    Available: [https://doi.org/10.1109/TAI.2023.3319308](https://doi.org/10.1109/TAI.2023.3319308)  
    Code: [https://github.com/ardafazla/context-time-aware-ensemble](https://github.com/ardafazla/context-time-aware-ensemble)
 
-6. M. E. Aydin, **A. Fazla**, S. S. Kozat, _"Hybrid State Space-based Learning for Sequential Data Prediction with Joint Optimization"_, IEEE Transactions on Neural Networks and Learning Systems, 2023, **In Revision**.  
+3. M. E. Aydin, **A. Fazla**, S. S. Kozat, _"Hybrid State Space-based Learning for Sequential Data Prediction with Joint Optimization"_, arXiv preprint arXiv:2309.10553, 2023.  
    Available: [https://arxiv.org/abs/2309.10553](https://arxiv.org/abs/2309.10553)  
    Code: [https://github.com/mustafaaydn/lstm-sx](https://github.com/mustafaaydn/lstm-sx)  
 
-7. **A. Fazla**, M. E. Aydin, S. S. Kozat, _"Joint Optimization of Linear and Nonlinear Models for Sequential Regression"_, Digital Signal Processing, Elsevier, 2022, **Accepted**.  
+4. **A. Fazla**, M. E. Aydin, S. S. Kozat, _"Joint Optimization of Linear and Nonlinear Models for Sequential Regression"_, Digital Signal Processing, Elsevier, 2022.  
    Available: [https://doi.org/10.1016/j.dsp.2022.103802](https://doi.org/10.1016/j.dsp.2022.103802)  
    Code: [https://github.com/ardafazla/jointoptimization](https://github.com/ardafazla/jointoptimization)
 
 
 ### Conference Papers
-1. K. G. Ince, A. Koksal, **A. Fazla**, A. A. Alatan, _"Semi-Automatic Annotation for Object Detection"_, Proceedings of the IEEE/CVF International Conference on Computer Vision, 1233-1239, 2021, **Accepted**.  
+1. K. G. Ince, A. Koksal, **A. Fazla**, A. A. Alatan, _"Semi-Automatic Annotation for Object Detection"_, Proceedings of the IEEE/CVF International Conference on Computer Vision, 1233-1239, 2021.  
    Available: [https://doi.org/10.1109/ICCVW54120.2021.00143](https://doi.org/10.1109/ICCVW54120.2021.00143)
   
 Academic Awards
 ======
 
-* Received the **373rd** rank among 2M high school graduates in University Entrance Examination.  
-
-* Received the **11th** rank among 0.2M university graduates in ALES (National GRE).  
-
 ### The Elmore Family School of Electrical and Computer Engineering, Purdue University  
-_2024-Present_  
+_2024-2029_  
 * Awarded the highly competitive and prestigious Elmore Fellowship Award for my graduate studies, given
 only to the most outstanding applicants.  
 
@@ -70,8 +69,16 @@ _2021-2023_
 * Awarded Directorate of Science Fellowships and Grant Programme, a merit-based monthly stipend and
 accommodation support during M.Sc.
 
+* Received the **373rd** rank among 2M high school graduates in University Entrance Examination.  
+
+* Received the **11th** rank among 0.2M university graduates in ALES (National GRE).
+
 Academic Duties
 ======
+### Reviewer Duties
+**Conferences:** ICLR25, AAAI25  
+**Journals:** IEEE TAI25, IEEE IOT24  
+
 ### Tutoring and Grading (2021 - Present)
 **Electrical and Electronics Engineering, Bilkent University**, _2021-Present_  
 * EEE321 Signals and Systems  
@@ -80,7 +87,7 @@ Academic Duties
 
 Relevant Coursework
 ======
-* Neural Networks (4.0/4.0)  
+* Optimization for Deep Learning (4.0/4.0)  
 * Statistical Learning and Data Analytics (4.0/4.0)  
 * Random Processes (4.0/4.0)  
 * Deep Generative Networks (4.0/4.0)  
