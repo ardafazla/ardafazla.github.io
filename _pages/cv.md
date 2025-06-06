@@ -15,12 +15,12 @@ CV
 
 Education
 ======
-* **Doctor of Philosophy** - Electrical and Computer Engineering **(4.00/4.00)**, 2024-2029
-Purdue University - The Elmore Family School of Electrical and Computer Engineering - Indiana, US.
+* **Doctor of Philosophy** - Electrical and Computer Engineering **(4.00/4.00)**, 2024-2029  
+Purdue University - The Elmore Family School of Electrical and Computer Engineering - Indiana, US.  
 **Advisor**: [Prof. Abolfazl Hashemi](https://abolfazlh.github.io)  
 
 * **Master Of Science** - Electrical and Electronics Engineering **(3.91/4.00)**, 2021-2024  
-Bilkent University - Faculty of Engineering - Ankara, Turkey.
+Bilkent University - Faculty of Engineering - Ankara, Turkey.  
 **Advisor**: [Prof. Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/)  
 
 * **Bachelor of Science** - Electrical and Electronics Engineering **(3.61/4.00)**, 2017-2021  
