@@ -21,9 +21,9 @@ Technical University, Turkey, in July 2021.
 
 My research primarily centers on **deep learning and large-scale optimization**, with an emphasis on developing robust 
 and privacy-preserving deep learning algorithms with mathematical guarantees. Recently, I have been particularly interested
-understanding the learning dynamics of large-scale models, such as the memorization phenomenon, and study how these dynamics 
-evolve under constraints like robustness and adversarial settings. I am also exploring the extension of these theoretical 
-insights to practical domains, including distributed and federated learning.
+in understanding the learning dynamics of large-scale models, such as the memorization phenomenon, and studying how these 
+dynamics evolve under constraints like robustness and adversarial settings. I am also exploring the extension of these 
+theoretical insights to practical domains, including distributed and federated learning.
 
 Research Background & Interests
 ======
