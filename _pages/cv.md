@@ -90,27 +90,26 @@ Relevant Coursework
 * Optimization for Deep Learning (4.0/4.0)  
 * Statistical Learning and Data Analytics (4.0/4.0)  
 * Random Processes (4.0/4.0)  
-* Deep Generative Networks (4.0/4.0)  
-* Introduction to Computer Intelligence (4.0/4.0)  
+* Deep Generative Networks (4.0/4.0)
 * Data Structures (4.0/4.0)  
-* Digital Signal Processing (4.0/4.0)  
+* Digital Signal Processing (4.0/4.0)
 
 Research Projects
 ======
 ### Hourly Wind Energy Prediction  
 _Bilkent University, 2023_  
-* Predicted the hourly energy data of multiple wind turbines in Turkey and Europe, which show chaotic and nonstationary behaviour in multiple regions.  
-* Developed a large-scale ML framework, consisting of various deep-learning (NN, ConvLSTM), machine learning (LightGBM, RandomForest), statistical (SARIMAX) models and state-of-the-art ensembling techniques.  
+* Predicted the hourly energy data of multiple wind turbines in Turkey and Europe, showing chaotic and nonstationary behavior in multiple regions.  
+* Developed a large-scale ML framework consisting of various adaptive feature construction and selection methods with models such as deep-learning (NN, ConvLSTM), machine learning (LightGBM, RandomForest), statistical (SARIMAX) models and state-of-the-art ensembling techniques. Increased the short-term forecasting accuracy over state-of-the-art models by an average of *21\%* and long-term forecasting accuracy by an average of *8\%*.  
 
 ### Natural Gas Demand Prediction  
 _Bilkent University, 2022_  
 * Predicted the daily data of international natural gas demand in Turkey, which contains nonstationary multivariate time series from multiple sources.  
-* Developed a large-scale ML framework, consisting of various machine learning (LightGBM, MLP, LSTM) and statistical (exponential smoothing, SARIMAX) models and state-of-the-art ensembling techniques.  
+* Developed a large-scale ML framework specifically tailored towards a certain customer profile, where the predictions are obtained for the given data based on key indicators that are automatically extracted from the data itself and/or the user-given side information data. The constructed framework was deployed to various natural gas production companies.
 
 ### Small-Target Detection & Tracking  
 _Middle East Technical University, 2021_  
-* Developed an application using Python for real-time small target tracking by leveraging temporal data derived from the output of object detectors.  
-
+* Developed an application in Python environment for real-time small target tracking by leveraging temporal data derived from the output of object detectors, with a superior performance over the widely-known YOLOv3 algorithm by *6\%*.  
+* Constructed a novel multi-hypothesis tracking algorithm with an annotation tool for the semi-automatic correction of mislabeled UAV data. The deployed product decreased the total mislabeled data in various datasets by an average of *13\%*.  
 
 Additional Projects
 ======
@@ -124,16 +123,6 @@ _Neural Networks Course Project, 2022_
 * Employed state-of-the-art models such as ResNet, VGG-16 and InceptionV3, where LSTM is used as the main learning model for transfer learning.  
 * Used BERT transformers for word embedding.  
 
-### Surveillance – Protective Measures  
-_Middle East Technical University, Senior Year Project, 2021_  
-* Designed a product that detects whether a person is not wearing a mask and/or showing fever symptoms.  
-* Our mask detection system uses the YOLOv4 algorithm for classification, trained on a self-constructed dataset with image augmentation.  
-Available: http://capstone.eee.metu.edu.tr/project-fair-2021/\#BOMAS
- 
-### Semi-Automatic Video Annotation for Object Detection  
-_Middle East Technical University, EEE STAR Program, Finalist, 2021_  
-* The project mainly involves computer vision and image processing. It consists of two parts: first, a multi-hypothesis tracking algorithm is introduced and then an annotation tool employing this algorithm is given.  
-
 Software Skills
 ======
 * **Pyhton**: Professional research and industrial experience based on machine learning. High knowledge and experience on libraries such as _PyTorch_, _Tensorflow_, _Pandas_, _Numpy_ and _Scikit-Learn_. I have experience with Docker and Git, via industrial projects.  
@@ -144,4 +133,4 @@ Software Skills
 Languages
 ======
 _Turkish_: Native  
-_English_: Conversationally Fluent \[TOEFL IBT 108/120 (Available Through: October 19, 2024)\]
+_English_: Conversationally Fluent \[TOEFL IBT 108/120 (October 22, 2024)\]

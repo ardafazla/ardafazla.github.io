@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am currently a Ph.D. candidate at Purdue University’s Machine Intelligence and Networked Data Science Group (MINDS) 
+I am currently a Ph.D. student at Purdue University’s Machine Intelligence and Networked Data Science Group (MINDS) 
 Laboratory advised by [Prof. Abolfazl Hashemi](https://abolfazlh.github.io). My research focuses on trustworthy AI.
 
 Previously, I have received my M.Sc. degree with a CGPA of **3.91/4.00** from the Department of Electrical and Electronics
