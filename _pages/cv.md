@@ -97,12 +97,12 @@ Relevant Coursework
 Research Projects
 ======
 ### Hourly Wind Energy Prediction  
-_Bilkent University, 2023_  
+_Bilkent University, 2024_  
 * Predicted the hourly energy data of multiple wind turbines in Turkey and Europe, showing chaotic and nonstationary behavior in multiple regions.  
 * Developed a large-scale ML framework consisting of various adaptive feature construction and selection methods with models such as deep-learning (NN, ConvLSTM), machine learning (LightGBM, RandomForest), statistical (SARIMAX) models and state-of-the-art ensembling techniques. Increased the short-term forecasting accuracy over state-of-the-art models by an average of *21\%* and long-term forecasting accuracy by an average of *8\%*.  
 
 ### Natural Gas Demand Prediction  
-_Bilkent University, 2022_  
+_Bilkent University, 2023_  
 * Predicted the daily data of international natural gas demand in Turkey, which contains nonstationary multivariate time series from multiple sources.  
 * Developed a large-scale ML framework specifically tailored towards a certain customer profile, where the predictions are obtained for the given data based on key indicators that are automatically extracted from the data itself and/or the user-given side information data. The constructed framework was deployed to various natural gas production companies.
 
