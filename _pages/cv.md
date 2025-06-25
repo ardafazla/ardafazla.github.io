@@ -79,8 +79,8 @@ Academic Duties
 **Conferences:** ICLR25, AAAI25  
 **Journals:** IEEE TAI25, IEEE IOT24  
 
-### Tutoring and Grading (2021 - Present)
-**Electrical and Electronics Engineering, Bilkent University**, _2021-Present_  
+### Teaching Assistantship
+**Electrical and Electronics Engineering, Bilkent University**, _2021-2024_  
 * EEE321 Signals and Systems  
 * EEE202 Circuit Theory  
 * MATH255 Probability and Statistics  

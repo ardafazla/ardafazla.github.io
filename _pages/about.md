@@ -27,9 +27,12 @@ theoretical insights to practical domains, including distributed and federated l
 
 Research Background & Interests
 ======
+**Research Interests**
 * Deep Learning (Neural Networks, Sequence Models, Transformers, Generative Networks)
 * Optimization (Constrained/Unconstrained Optimization Theory, Multi-Objective Optimization)
-* Distributed/Federated Learning
 * Trustworthy Machine Learning (Robustness, Privacy, Memorization)
+* Distributed/Federated Learning
+
+**Previous Background**
 * Online Learning (Transfer Learning, Online Convex Optimization)
 * Time Series Analysis and Forecasting (Univariate \& Multivariate Forecasting, State Space Models, Anomaly Detection)
