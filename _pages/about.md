@@ -19,9 +19,8 @@ theoretical convergence guarantees that better reflect modern deep learning sett
 of and variance reduction for deep neural networks, with a focus on improving data efficiency and enhancing robustness 
 under distribution shifts.
 
-Research Background & Interests
+Research Interests
 ======
-**Research Interests**
 * Optimization (Constrained/Unconstrained Optimization Theory, Multi-Objective Optimization)  
 * Trustworthy Deep Learning (Robustness, Privacy, Memorization)  
 * Distributionally Robust Optimization (Invariant Learning, Subpopulation Shift, Domain Generalization)
