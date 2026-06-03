@@ -10,29 +10,18 @@ redirect_from:
 
 About
 ======
-I am currently a Ph.D. student at Purdue University’s Machine Intelligence and Networked Data Science Group (MINDS) 
-Laboratory advised by [Prof. Abolfazl Hashemi](https://abolfazlh.github.io). My research focuses on trustworthy AI.
+I am a Ph.D. student at Purdue University’s Machine Intelligence and Networked Data Science Group (MINDS) 
+Laboratory advised by [Prof. Abolfazl Hashemi](https://abolfazlh.github.io).
 
-Previously, I have received my M.Sc. degree with a CGPA of **3.91/4.00** from the Department of Electrical and Electronics
-Engineering, Bilkent University, in 2024, under the supervision of [Prof. Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/). My research focused on 
-modeling and prediction of time series under nonstationary environments. I have received my B.S. degree with **high honors** 
-and graduated with a CGPA of **3.61/4.00** from the Department of Electrical and Electronics Engineering at Middle East 
-Technical University, Turkey, in 2021.
-
-My research primarily centers on **deep learning and large-scale optimization**, with an emphasis on developing robust 
-and privacy-preserving deep learning algorithms with mathematical guarantees. Recently, I have been particularly interested
-in understanding the learning dynamics of large-scale models, such as the memorization phenomenon, and studying how these 
-dynamics evolve under constraints like robustness and adversarial settings. I am also exploring the extension of these 
-theoretical insights to practical domains, including distributed and federated learning.
+My research interests lie at the intersection of stochastic optimization and trustworthy deep learning. I am 
+particularly interested in developing optimization methods for nonconvex learning under realistic assumptions, with 
+theoretical convergence guarantees that better reflect modern deep learning settings. I also study the generalization 
+of and variance reduction for deep neural networks, with a focus on improving data efficiency and enhancing robustness 
+under distribution shifts.
 
 Research Background & Interests
 ======
 **Research Interests**
-* Deep Learning (Neural Networks, Sequence Models, Transformers, Generative Networks)
-* Optimization (Constrained/Unconstrained Optimization Theory, Multi-Objective Optimization)
-* Trustworthy Machine Learning (Robustness, Privacy, Memorization)
-* Distributed/Federated Learning
-
-**Previous Background**
-* Online Learning (Transfer Learning, Online Convex Optimization)
-* Time Series Analysis and Forecasting (Univariate \& Multivariate Forecasting, State Space Models, Anomaly Detection)
+* Optimization (Constrained/Unconstrained Optimization Theory, Multi-Objective Optimization)  
+* Trustworthy Deep Learning (Robustness, Privacy, Memorization)  
+* Distributionally Robust Optimization (Invariant Learning, Subpopulation Shift, Domain Generalization)

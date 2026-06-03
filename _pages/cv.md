@@ -15,19 +15,39 @@ CV
 
 Education
 ======
-* **Doctor of Philosophy** - Electrical and Computer Engineering **(4.00/4.00)**, 2024-2029  
+* **Doctor of Philosophy** - Electrical and Computer Engineering **(4.00/4.00)**, 2024-Present  
 Purdue University - The Elmore Family School of Electrical and Computer Engineering - Indiana, US.  
-**Advisor**: [Prof. Abolfazl Hashemi](https://abolfazlh.github.io)  
+**Advisor**: [Prof. Abolfazl Hashemi](https://abolfazlh.github.io)
 
-* **Master Of Science** - Electrical and Electronics Engineering **(3.91/4.00)**, 2021-2024  
+* **Master of Science** - Electrical and Electronics Engineering **(3.91/4.00)**, 2021-2024  
 Bilkent University - Faculty of Engineering - Ankara, Turkey.  
-**Advisor**: [Prof. Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/)  
+**Advisor**: [Prof. Süleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/)
 
 * **Bachelor of Science** - Electrical and Electronics Engineering **(3.61/4.00)**, 2017-2021  
 Middle East Technical University - Faculty of Engineering - Ankara, Turkey.
 
+Research Background & Interests
+======
+* Optimization: constrained/unconstrained optimization theory, multi-objective optimization
+* Trustworthy Deep Learning: robustness, privacy, memorization
+* Distributionally Robust Optimization: invariant learning, subpopulation shift, domain generalization
+
 Publications
 ======
+
+### Preprints
+1. **A. Fazla**, E. Kaya, A. Upadhyay, A. Hashemi, _"Lower Bounds and Proximally Anchored SGD for Non-Convex Minimization Under Unbounded Variance"_, Under Review at NeurIPS 2026.  
+   Available: [https://arxiv.org/abs/2604.16620](https://arxiv.org/abs/2604.16620)
+
+2. A. Upadhyay, **A. Fazla**, A. Hashemi, _"Beyond Bounded Variance: Variance-Reduced Normalized Methods for Nonconvex Optimization under Blum-Gladyshev Noise"_, Under Review at NeurIPS 2026.  
+   Available: [https://arxiv.org/abs/2605.15314](https://arxiv.org/abs/2605.15314)
+
+### Conference Papers
+1. **A. Fazla**, A. Hashemi, _"Mitigating Spurious Correlations with Memorization-Guided Dataset De-Biasing Selection"_, Uncertainty in Artificial Intelligence, 2026.  
+   Available: [https://arxiv.org/abs/2606.02830](https://arxiv.org/abs/2606.02830)
+
+2. K. G. Ince, A. Köksal, **A. Fazla**, A. A. Alatan, _"Semi-Automatic Annotation for Object Detection"_, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2021, pp. 1233-1239.  
+   Available: [https://doi.org/10.1109/ICCVW54120.2021.00143](https://doi.org/10.1109/ICCVW54120.2021.00143)
 
 ### Journal Papers
 1. S. F. Tekin, **A. Fazla**, S. S. Kozat, _"Numerical Weather Forecasting using Convolutional-LSTM with Attention and Context Matcher Mechanisms"_, IEEE Transactions on Geoscience and Remote Sensing, 2024.  
@@ -40,97 +60,85 @@ Publications
 
 3. M. E. Aydin, **A. Fazla**, S. S. Kozat, _"Hybrid State Space-based Learning for Sequential Data Prediction with Joint Optimization"_, arXiv preprint arXiv:2309.10553, 2023.  
    Available: [https://arxiv.org/abs/2309.10553](https://arxiv.org/abs/2309.10553)  
-   Code: [https://github.com/mustafaaydn/lstm-sx](https://github.com/mustafaaydn/lstm-sx)  
+   Code: [https://github.com/mustafaaydn/lstm-sx](https://github.com/mustafaaydn/lstm-sx)
 
 4. **A. Fazla**, M. E. Aydin, S. S. Kozat, _"Joint Optimization of Linear and Nonlinear Models for Sequential Regression"_, Digital Signal Processing, Elsevier, 2022.  
    Available: [https://doi.org/10.1016/j.dsp.2022.103802](https://doi.org/10.1016/j.dsp.2022.103802)  
    Code: [https://github.com/ardafazla/jointoptimization](https://github.com/ardafazla/jointoptimization)
 
+Professional Experiences
+======
 
-### Conference Papers
-1. K. G. Ince, A. Koksal, **A. Fazla**, A. A. Alatan, _"Semi-Automatic Annotation for Object Detection"_, Proceedings of the IEEE/CVF International Conference on Computer Vision, 1233-1239, 2021.  
-   Available: [https://doi.org/10.1109/ICCVW54120.2021.00143](https://doi.org/10.1109/ICCVW54120.2021.00143)
-  
+### Purdue University, Research Assistant  
+_Advisor: Prof. Abolfazl Hashemi_  
+_West Lafayette, IN_
+
+**Stochastic Optimization**, _Aug 2025-Present_  
+* Developed **PASTA** and **SAUCE**, two stochastic optimization frameworks for nonconvex learning under realistic noise assumptions, covering unbounded variance and Blum-Gladyshev noise. Established theoretical convergence guarantees and demonstrated their relevance to modern deep learning settings where classical bounded-variance assumptions fail.
+* Currently investigating the optimization and generalization behavior of deep neural networks, with a focus on sharpness-aware training dynamics and adaptive scheduling.
+
+**Trustworthy Deep Learning**, _Aug 2024-Present_  
+* Proposed a two-stage coreset selection algorithm with the dual purpose of eliminating spurious correlations and reducing dataset size. The deployed product achieved up to **27%** improvement over standard ERM while utilizing only **10%** of the training data on benchmark datasets such as Waterbirds, CMNIST, MetaShift, and UrbanCars, while also outperforming state-of-the-art invariant learning methods.
+* Currently studying the training dynamics of deep learning models, with a focus on how loss landscape sharpness interacts with common training interventions and influences memorization and generalization, particularly in out-of-distribution settings.
+
+### Databoss Security & Analytics Inc., Data Scientist  
+_Ankara, Turkey_
+
+**Hourly Wind Energy Prediction**, _Jun 2023-May 2024_  
+* Predicted the hourly energy data of multiple wind turbines in Turkey and Europe, showing chaotic and nonstationary behavior in multiple regions.
+* Developed a large-scale ML framework consisting of various adaptive feature construction and selection methods with models such as deep learning models, machine learning models, statistical models, and state-of-the-art ensembling techniques. The deployed product increased short-term forecasting accuracy by an average of **21%** and long-term forecasting accuracy by an average of **8%**.
+
+**Natural Gas Demand Prediction**, _Aug 2021-May 2023_  
+* Predicted daily international natural gas demand in Turkey, consisting of nonstationary multivariate time series from multiple sources.
+* Developed a large-scale ML framework tailored toward a specific customer profile, where predictions are obtained based on key indicators automatically extracted from the data itself and/or user-given side information. The constructed framework was deployed to various natural gas production companies.
+
+### METU Center for Image Analysis (OGAM), Machine Learning Engineer  
+_Ankara, Turkey_
+
+**UAV Small Object Detection and Tracking**, _Jun 2020-Jul 2021_  
+* Developed a Python application for real-time small target tracking by leveraging temporal data derived from object detector outputs, achieving **6%** superior performance over the widely known YOLOv3 algorithm.
+* Constructed a novel multi-hypothesis tracking algorithm with an annotation tool for semi-automatic correction of mislabeled UAV data. The deployed product decreased the total mislabeled data in various datasets by an average of **13%**.
+
 Academic Awards
 ======
 
-### The Elmore Family School of Electrical and Computer Engineering, Purdue University  
+### Elmore Family School of Electrical and Computer Engineering, Purdue University  
 _2024-2029_  
-* Awarded the highly competitive and prestigious Elmore Fellowship Award for my graduate studies, given
-only to the most outstanding applicants.  
+* Awarded the highly competitive and prestigious Elmore Fellowship Award for my graduate studies, given only to the most outstanding applicants.
 
 ### Turk Telekom & Information and Communication Technologies Authority  
 _2023-2024_  
-* Awarded 5G and Beyond Joint Graduate Support Programme, a merit-based fellowship of monthly
-stipend during M.Sc.  
+* Awarded 5G and Beyond Joint Graduate Support Programme, a merit-based fellowship of monthly stipend during M.Sc.
 
 ### Scientific and Technological Research Council of Turkey  
 _2021-2023_  
-* Awarded Directorate of Science Fellowships and Grant Programme, a merit-based monthly stipend and
-accommodation support during M.Sc.
+* Awarded Directorate of Science Fellowships and Grant Programme, a merit-based monthly stipend and accommodation support during M.Sc.
 
-* Received the **373rd** rank among 2M high school graduates in University Entrance Examination.  
+* Received the **373rd** rank among 2M high school graduates in the University Entrance Examination.
 
-* Received the **11th** rank among 0.2M university graduates in ALES (National GRE).
+* Received the **11th** rank among 0.2M university graduates in ALES, the National GRE.
 
 Academic Duties
 ======
+
 ### Reviewer Duties
-**Conferences:** ICLR25, AAAI25  
-**Journals:** IEEE TAI25, IEEE IOT24  
+**Conferences:** ICLR '25-'26, NeurIPS '26, AISTATS '26, AAAI '25  
+**Journals:** IEEE TAI '25, IEEE IOT '24-'25
 
 ### Teaching Assistantship
 **Electrical and Electronics Engineering, Bilkent University**, _2021-2024_  
-* EEE321 Signals and Systems  
-* EEE202 Circuit Theory  
-* MATH255 Probability and Statistics  
-
-Relevant Coursework
-======
-* Optimization for Deep Learning (4.0/4.0)  
-* Statistical Learning and Data Analytics (4.0/4.0)  
-* Random Processes (4.0/4.0)  
-* Deep Generative Networks (4.0/4.0)
-* Data Structures (4.0/4.0)  
-* Digital Signal Processing (4.0/4.0)
-
-Research Projects
-======
-### Hourly Wind Energy Prediction  
-_Bilkent University, 2024_  
-* Predicted the hourly energy data of multiple wind turbines in Turkey and Europe, showing chaotic and nonstationary behavior in multiple regions.  
-* Developed a large-scale ML framework consisting of various adaptive feature construction and selection methods with models such as deep-learning (NN, ConvLSTM), machine learning (LightGBM, RandomForest), statistical (SARIMAX) models and state-of-the-art ensembling techniques. Increased the short-term forecasting accuracy over state-of-the-art models by an average of *21\%* and long-term forecasting accuracy by an average of *8\%*.  
-
-### Natural Gas Demand Prediction  
-_Bilkent University, 2023_  
-* Predicted the daily data of international natural gas demand in Turkey, which contains nonstationary multivariate time series from multiple sources.  
-* Developed a large-scale ML framework specifically tailored towards a certain customer profile, where the predictions are obtained for the given data based on key indicators that are automatically extracted from the data itself and/or the user-given side information data. The constructed framework was deployed to various natural gas production companies.
-
-### Small-Target Detection & Tracking  
-_Middle East Technical University, 2021_  
-* Developed an application in Python environment for real-time small target tracking by leveraging temporal data derived from the output of object detectors, with a superior performance over the widely-known YOLOv3 algorithm by *6\%*.  
-* Constructed a novel multi-hypothesis tracking algorithm with an annotation tool for the semi-automatic correction of mislabeled UAV data. The deployed product decreased the total mislabeled data in various datasets by an average of *13\%*.  
-
-Additional Projects
-======
-### Multi-modal Photo Upsampling via Latent Space Exploration of StyleGAN  
-_Bilkent University, Deep Generative Netwoks Course Project, 2023_  
-* Adapted the PULSE algorithm for multi-modal image super-resolution by incorporating a variational autoencoder to enhance network diversity.  
-
-### Image Captioning based on LSTM with Transfer Learning  
-_Neural Networks Course Project, 2022_  
-* Constructed a framework, which generates meaningful sentences describing a given image (Image Captioning).  
-* Employed state-of-the-art models such as ResNet, VGG-16 and InceptionV3, where LSTM is used as the main learning model for transfer learning.  
-* Used BERT transformers for word embedding.  
+* EEE321 Signals and Systems
+* EEE202 Circuit Theory
+* MATH255 Probability and Statistics
 
 Software Skills
 ======
-* **Pyhton**: Professional research and industrial experience based on machine learning. High knowledge and experience on libraries such as _PyTorch_, _Tensorflow_, _Pandas_, _Numpy_ and _Scikit-Learn_. I have experience with Docker and Git, via industrial projects.  
-* **MATLAB**: Professional research experience in signal processing and computer vision. Used for projects during my undergraduate courses, undergraduate research, and internships.  
-* **R**: Intermediate level experience, employed during research based on time-series forecasting using statistical models.  
-* **C/C++**: Intermediate experience in Arduino and various undergraduate projects.  
+* **Python:** Professional research and industrial experience based on machine learning. High knowledge and experience in libraries such as _PyTorch_, _TensorFlow_, _Pandas_, _NumPy_, and _Scikit-Learn_. I have experience with Docker and Git via industrial projects.
+* **MATLAB:** Professional research experience in signal processing and computer vision. Used for projects during courses, research, and internships.
+* **R:** Intermediate-level experience, employed during research based on time-series forecasting using statistical models.
+* **C/C++:** Intermediate experience in various course projects.
 
 Languages
 ======
-_Turkish_: Native  
-_English_: Conversationally Fluent \[TOEFL IBT 108/120 (October 22, 2024)\]
+_Turkish:_ Native  
+_English:_ Conversationally Fluent [TOEFL IBT 108/120 (October 19, 2022)]
