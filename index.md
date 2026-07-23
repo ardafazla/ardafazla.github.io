@@ -14,7 +14,7 @@ Laboratory advised by [Prof. Abolfazl Hashemi](https://abolfazlh.github.io).
 - **Trustworthy Deep Learning:** Robustness, fairness, memorization
 
 ## News
-- **[May 2026]** Our paper about coreset selection under spurious correlations is accept to UAI 2026.
+- **[May 2026]** Our paper on coreset selection under spurious correlations is accepted to UAI 2026.
 
 {% include_relative _includes/publications.md %}
 
