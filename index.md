@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Purdue University’s Machine Intelligence and Networked Data Science Group (MINDS) 
+Laboratory advised by [Prof. Abolfazl Hashemi](https://abolfazlh.github.io).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Optimization:** Convergence analysis, variance-reduction methods, multi-objective optimization
+- **LLM Training:** Pretraining optimization, adaptive training schedules
+- **Trustworthy Deep Learning:** Robustness, fairness, memorization, and privacy
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May 2026]** Our paper about coreset selection under spurious correlations is accept to UAI 2026.
 
 {% include_relative _includes/publications.md %}
 
