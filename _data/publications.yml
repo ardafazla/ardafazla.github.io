@@ -1,22 +1,25 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Lower Bounds and Proximally Anchored SGD for Non-Convex Minimization Under Unbounded Variance
+    authors: "<strong>Arda Fazla</strong>, Ege Can Kaya, Antesh Upadhyay, Abolfazl Hashemi"
+    conference_short: PREPRINT
+    conference: Under Review, 2026.
+    pdf: https://arxiv.org/abs/2604.16620
+    image: ./assets/img/pasta26.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Beyond Bounded Variance: Variance-Reduced Normalized Methods for Nonconvex Optimization under Blum-Gladyshev Noise
+    authors: "Antesh Upadhyay, <strong>Arda Fazla</strong>, Abolfazl Hashemi"
+    conference_short: PREPRINT
+    conference: Under Review, 2026.
+    pdf: https://arxiv.org/abs/2605.15314
+    image: ./assets/img/sauce26.png
+
+  - title: Mitigating Spurious Correlations with Memorization-Guided Dataset De-Biasing
+    authors: "<strong>Arda Fazla</strong>, Abolfazl Hashemi"
+    conference_short: UAI
+    conference: "Conference on Uncertainty in Artificial Intelligence <strong>(UAI)</strong>, 2026."
+    pdf: https://arxiv.org/abs/2606.02830
+    code: https://github.com/ardafazla/TCSL
+    image: ./assets/img/uai26.jpg
+    notes: Poster
+

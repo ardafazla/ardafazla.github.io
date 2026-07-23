@@ -9,9 +9,9 @@ Laboratory advised by [Prof. Abolfazl Hashemi](https://abolfazlh.github.io).
 
 ## Research Interests
 
-- **Optimization:** Convergence analysis, variance-reduction methods, multi-objective optimization
+- **Optimization Theory:** Convergence analysis, variance-reduction methods, multi-objective optimization
 - **LLM Training:** Pretraining optimization, adaptive training schedules
-- **Trustworthy Deep Learning:** Robustness, fairness, memorization, and privacy
+- **Trustworthy Deep Learning:** Robustness, fairness, memorization
 
 ## News
 - **[May 2026]** Our paper about coreset selection under spurious correlations is accept to UAI 2026.
