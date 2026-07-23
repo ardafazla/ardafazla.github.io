@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Purdue University’s Machine Intelligence and Networked Data Science Group (MINDS) 
+I am a 2nd year Ph.D. student at Purdue University’s Machine Intelligence and Networked Data Science Group (MINDS) 
 Laboratory advised by [Prof. Abolfazl Hashemi](https://abolfazlh.github.io).
 
 ## Research Interests
