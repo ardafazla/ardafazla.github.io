@@ -1,5 +1,18 @@
 main:
 
+  - title: "Why Does Adaptive Batching Help LLM Pretraining? A Perspective from Unbounded Variance"
+    authors: "<strong>Arda Fazla</strong>, Antesh Upadhyay, Ege Can Kaya, Mehmet Berk Sahin, Abolfazl Hashemi"
+    conference_short: PREPRINT
+    conference: Under Review, 2026.
+    image: ./assets/img/abs26.png
+
+  - title: "A Banach-Space Theory of Markovian Halpern Iteration for Non-Expansive Maps"
+    authors: "Ege Can Kaya, <strong>Arda Fazla</strong>, Mehmet Berk Sahin, Abolfazl Hashemi"
+    conference_short: PREPRINT
+    conference: Under Review, 2026.
+    pdf: https://arxiv.org/abs/2608.15966
+    image: ./assets/img/banach26.png
+
   - title: "Lower Bounds and Proximally Anchored SGD for Non-Convex Minimization Under Unbounded Variance"
     authors: "<strong>Arda Fazla</strong>, Ege Can Kaya, Antesh Upadhyay, Abolfazl Hashemi"
     conference_short: PREPRINT
@@ -9,8 +22,8 @@ main:
 
   - title: "Beyond Bounded Variance: Variance-Reduced Normalized Methods for Nonconvex Optimization under Blum-Gladyshev Noise"
     authors: "Antesh Upadhyay, <strong>Arda Fazla</strong>, Abolfazl Hashemi"
-    conference_short: PREPRINT
-    conference: Under Review, 2026.
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</
     pdf: https://arxiv.org/abs/2605.15314
     image: ./assets/img/sauce26.png
 
