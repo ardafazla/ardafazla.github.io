@@ -23,9 +23,10 @@ main:
   - title: "Beyond Bounded Variance: Variance-Reduced Normalized Methods for Nonconvex Optimization under Blum-Gladyshev Noise"
     authors: "Antesh Upadhyay, <strong>Arda Fazla</strong>, Abolfazl Hashemi"
     conference_short: NeurIPS
-    conference: Neural Information Processing Systems <strong>(NeurIPS)</
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026."
     pdf: https://arxiv.org/abs/2605.15314
     image: ./assets/img/sauce26.png
+    notes: Poster
 
   - title: "Mitigating Spurious Correlations with Memorization-Guided Dataset De-Biasing"
     authors: "<strong>Arda Fazla</strong>, Abolfazl Hashemi"
