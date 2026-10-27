@@ -1,9 +1,17 @@
 main:
 
+  - title: "Robust Langevin Sampling under State-Dependent Heavy-Tailed Noise with Applications to LLM Fine-Tuning"
+    authors: "Mehmet Berk Sahin, Ege Can Kaya, <strong>Arda Fazla</strong>, Behzad Sharif, Abolfazl Hashemi"
+    conference_short: PREPRINT
+    conference: Under Review, 2026.
+    pdf: https://arxiv.org/abs/2610.12865
+    image: ./assets/img/sampling26.png
+
   - title: "Why Does Adaptive Batching Help LLM Pretraining? A Perspective from Unbounded Variance"
     authors: "<strong>Arda Fazla</strong>, Antesh Upadhyay, Ege Can Kaya, Mehmet Berk Sahin, Abolfazl Hashemi"
     conference_short: PREPRINT
     conference: Under Review, 2026.
+    pdf: https://arxiv.org/pdf/2610.02355
     image: ./assets/img/abs26.png
 
   - title: "A Banach-Space Theory of Markovian Halpern Iteration for Non-Expansive Maps"

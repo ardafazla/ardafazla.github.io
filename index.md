@@ -14,6 +14,8 @@ Laboratory advised by [Prof. Abolfazl Hashemi](https://abolfazlh.github.io).
 - **Reinforcement Learning:** RL-based post-training, LLM alignment
 
 ## News
+- **[Oct 2026]** Received the “Main Conference Top Reviewer” award at NeurIPS 2026.
+
 - **[Sep 2026]** Our paper on the convergence of normalized methods under unbounded variance is accepted to NeurIPS 2026.
 
 - **[May 2026]** Our paper on coreset selection under spurious correlations is accepted to UAI 2026.
